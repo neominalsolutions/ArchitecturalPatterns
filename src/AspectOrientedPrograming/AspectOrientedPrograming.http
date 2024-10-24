@@ -1,0 +1,6 @@
+@AspectOrientedPrograming_HostAddress = http://localhost:5216
+
+GET {{AspectOrientedPrograming_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
